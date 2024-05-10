@@ -9,5 +9,5 @@ I'm Lucian (loosh-in). I've been programming since I was 16 and have experience 
 My previous companies
 
 - 🌎 [Restock World](https://x.com/restockworld)
-- 🖥️ [Glare Solutions](https://x.com/glaresolutions)
+- 🖥️ [Glare Solutions](https://x.com/glarepings)
 
